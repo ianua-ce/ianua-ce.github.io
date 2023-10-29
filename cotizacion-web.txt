@@ -1,14 +1,12 @@
-Registro de Nombre de dominio               Anual     $279 MXN
-Diseño gráfico de identidad web             Evento    $700 MXN
-
-Administración de nombre de dominio         Evento    $50 MXN
-Alojamiento y distribución de contenido web -----     -------
-  Alojamiento de contenido estático (HTML)  1GB/mes   $10.00 MXN
-  Alojamiento público de archivos grandes   50MB/mes  $1.00 MXN
-  Distribución de contenido en América      1GB/mes      NA
-Codificación en HTML del diseño gráfico     Página    $1,000 MXN
-  Optimización para redes sociales          Página    $500 MXN
-  Optimización para buscadores              Página    $500 MXN
-  Internacionalización de contenido         Página    $300 MXN
-  Idioma alternativo                        Página    $100 MXN
-
+======== Servicios proporcionados por terceros ========
+* Propiedad anual de nombre de dominio              $279.00 MXN
+* Diseño gráfico homogéneo                        $2,000.00 MXN
+====================
+* Administración del nombre de dominio              $100.00 MXN
+* Alojamiento de contenido editorial GB/Año          $50.00 MXN
+* Alojamiento de datos GB/Mes                        $10.00 MXN
+* Plantilla personalizada responsiva (2 tamaños)  $7,000.00 MXN
+* Editorial web                                     $600.00 MXN
+  - Contenido web estático                            ($300.00 MXN)
+  - Optimización para buscadores (metadatos)          ($100.00 MXN)
+  - Optimización para redes sociales (metadatos)      ($200.00 MXN)

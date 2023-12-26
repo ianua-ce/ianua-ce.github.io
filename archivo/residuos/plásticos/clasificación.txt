@@ -1,0 +1,53 @@
+# Residuos plásticos
+Los residuos plásticos pertenecen a los derivados de los polímeros; estructuras artificiales de cárbono. Los tipos de plásticos abarcan una amplia cada y para su disposición cómo residuos habrań de clasificarse adecuadamente para favorecer su reciclaje debido a la diferencias de densidades tan variada entre ellos.
+
+## Clasificación de polímeros residuales
+
+Compactables
+  Ecoladrillo
+    Bolsas transparentes
+    Bolsas metálicas
+    Bolsas y empaques
+  Ecoladrillo no apto para construcción
+    Polímeros fléxibles sucios
+    Polímeros rígidos
+Voluminosos
+  Reciclables
+    PET (1)
+    HDPE (2)
+    PP (5)
+  Otros
+
+Se sugiere el uso de 5 botellas de PET y 2 contenedores de más de 10 litros, uno de ellos con 3 separadores.
+
+---
+
+# Plásticos reciclables
+
+No todos los plásticos son reciclables debido a la complejidad de sus estructuras químicas. Los de reciclaje más común son los plásticos números:
+
+* 1 (PET)
+* 2 (HDPE)
+* 5 (PP)
+
+# Plásticos no reciclables
+
+Aunque las bolsas plásticas son técnicamente reciclables, no pasan por este proceso debido a los altos costos involucrados en el proceso. Para disponer los plásticos no reciclables se opta por su compresición en "ecoladrillos", botes de PET rellenos de plásticos.
+
+## Ecoladrillo
+
+En la fabricación de ecoladrillos, es importante que no existan espacios huecos para maximizar la densidad de la estructura. También es recomandable el uso de contenedores del mismo tipo para favorecer la uniformidad estructural y distribución de fuerzas.
+
+---
+# Degradación biológica
+
+## Complejidad
+
+La degradación plástica en la naturaleza es más complicada debido a las condiciones ambientales requeridas para fragmentar sus enlaces.
+
+Se sabe que al radiación solar degrada los plásticos, sin embargo esto origina microplásticos que se incorporan a la cadena alimenticia sin digerirse, provocando acumulación dentro de los organismos que los consumen.
+
+## Organismos biodegradadores
+
+Se sabe de la existencia de al menos un hongo, [Aspergillus tubingensis](https://www.procomer.com/alertas_comerciales/descubren-hongo-capaz-de-degradar-plastico-sin-dejar-residuos/), capaz de degradar el plástico y de al menos una especie de [larva capaz de degradar el únicel](https://www.procomer.com/alertas_comerciales/descubren-hongo-capaz-de-degradar-plastico-sin-dejar-residuos/).
+

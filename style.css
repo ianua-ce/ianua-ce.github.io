@@ -1,0 +1,10 @@
+/* Even if Pandoc wraps the image in a <p>, this makes it behave like it's not there */
+p:has(> img:only-child) {
+    display: contents;
+    width:fit-content;
+    height:fit-content;
+}
+
+body {
+    justify-items:center;
+}

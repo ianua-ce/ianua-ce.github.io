@@ -8,3 +8,15 @@ p:has(> img:only-child) {
 body {
     justify-items:center;
 }
+
+.menu ul li{
+    display:inline;
+}
+
+.menu ul li:after{
+    content: " | ";
+}
+
+.menu ul li:last-child:after{
+    content: "";
+}
